@@ -1,0 +1,2283 @@
+
+.verh{
+    padding-top: 32px;
+    background: url(/картинки/Slide\ 16_9\ -\ 3.png);
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.liner{
+    display: flex;
+    justify-content: space-between;
+}
+.slovo{
+    font-family: Mirra;
+    font-size: 24px;
+    color: #FFF3D2;
+}
+.Palka{
+    width: 80px;
+    height: 2px;
+    background-color: #4D3E1A;
+    margin-top: 15px;
+}
+.prevo{
+}
+.ssilki{
+    font-family: Actay2;
+    color: #FFF3D2;
+    font-size: 17px;
+    transition:0.3s;
+}
+.ssilki:hover{
+    color:#DDB242;
+}
+.zaglavok{
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.text{
+    margin: 0 auto;
+    font-family: Mirra;
+    color: #DDB242;
+    font-size: 190px;
+}
+.Russ{
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+}
+.Rus-Linia{
+    width: 192px;
+    height: 2px;
+    background-color: #DDB242;
+}
+.Rus-Linia:first-child{
+    margin-right: 20px;
+}
+.Rus-Linia:last-child{
+    margin-left: 20px;
+}
+.linea{
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+.LevoPhot{
+    display: flex;
+    align-items: end;
+    position: relative;
+}
+.PravoPhoti{
+    position: relative;
+    display: flex;
+    align-items: end;
+}
+.bobr{
+    width: 324.24px;
+    height: 408.11px;
+}
+.bob{
+    width: 100%;
+    height: 100%;
+}
+.petr{
+    position: absolute;
+    left: 85px;
+    width: 468.41px;
+    height: 453.54px;
+}
+.chel{
+    position: absolute;
+    right: 190px;
+    width: 506.41px;
+    height: 499px;
+}
+.chelPH{
+    width: 100%;
+    height: 100%;
+}
+.women{
+    z-index: 1;
+    width: 275.77px;
+    height: 425.16px;
+}
+.photki{
+    margin-top: 115px;
+}
+.vector{
+    width: 100%;
+    z-index: 9999;
+    bottom:-110px;
+    left: 0;
+    position: absolute;
+}
+.verh{
+    position: relative;
+}
+.pole{
+    position: relative;
+    padding-top: 230px;
+    width: 100%;
+    height: 3040px;
+    background-color: #0B0A0A;
+}
+.vectorrr{
+    width: 100%;
+}
+.Petr1Help{
+    position: absolute;
+    top:15px;
+    left: -40px;
+    opacity: 80%;
+    display: none;
+    transition: 0.3s;
+
+}
+.help{
+    position: relative;
+    z-index: 3;
+}
+.petr:hover .Petr1Help{
+    display: block;
+    z-index: 2;
+}
+.bobHELP{
+    position: relative;
+    z-index: 1;
+}
+.crasnBOBR{
+    position: absolute;
+    top: 4px;
+    left: -40px;
+    display: none;
+    opacity: 80%;
+}
+.bobr:hover .crasnBOBR{
+    display: block;
+}
+.chelLOLS{
+    position: relative;
+    z-index: 1;
+}
+.chelLOLSHELPS{
+    position: absolute;
+    top: 20px;
+    left: -35px;
+    display: none;
+    opacity: 80%;
+}
+.chel:hover .chelLOLSHELPS{
+    display: block;
+}
+.womenHELP{
+    position: relative;
+}
+.womenHELP{
+    z-index: 3;
+}
+.palots{
+    width: 526px;
+    height: 2px;
+    background-color: #4D3E1A;
+    float: right;
+    margin-top: 20px;
+}
+.womenSVG{
+    position: absolute;
+    top: 13px;
+    left: -40px;
+    display: none;
+    opacity: 80%;
+    z-index: 1;
+}
+.women:hover .womenSVG{
+    display: block;
+}
+.lol{
+    display: flex;
+    gap:50px;
+}
+
+.Blok{
+    margin-bottom: 50px;
+    padding: 50px;
+    background-color: #A8C4DC;
+    border-radius: 17px;
+    max-width: 671px;
+}
+.dadd{
+    max-width: 460px;
+    font-family: Actay2;
+    font-size: 23px;
+}
+.Blok2{
+    padding: 50px;
+    background-color: #A8C4DC;
+    border-radius: 17px;
+    max-width: 671px;
+}
+.levoS{
+    display: flex;
+    flex-direction: column;
+}
+
+.geroi{
+    display: flex;
+    justify-content: space-between;
+}
+
+.t{
+    font-size: 36px;
+    font-family: Mirra;
+}
+.Zaglavie{
+    font-family: Mirra;
+    font-size: 135px;
+    color: #DDB242;
+    margin-bottom: 130px;
+}
+
+.palka1{
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 85%;
+    height: 2px;
+    background-color: #DDB242;
+}
+
+.chto{
+    margin-top: 300px;
+    margin-bottom: 160px;
+    float: right;
+}
+
+.kkk{
+    font-family: Actay2;
+    font-size: 23px;
+}
+
+.Blok3{
+    float: right;
+    background-color: #FB874F;
+    margin-bottom: 50px;
+    padding: 50px;
+    border-radius: 17px;
+    max-width: 900px;
+    line-height:50px;
+}
+.Blok4{
+    float: left;
+    background-color: #FB874F;
+    margin-bottom: 50px;
+    padding: 50px;
+    border-radius: 17px;
+    max-width: 900px;
+    line-height:50px;
+    margin-top: 95px;
+}
+
+
+.OrangeSnake{
+    position: absolute;
+    bottom: 0;
+}
+
+.poleKytyzov {
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: #111116;
+    padding-top: 150px;
+    padding-bottom: 190px;
+}
+.snekeSER {
+    position: absolute;
+    top: -160px;
+}
+.conteiner {
+}
+.zaglavieKYTYZOV {
+    text-align: center;
+    margin-bottom: 110px;
+}
+.zag1 {
+    font-family: Mirra;
+    font-size: 96px;
+    color: #DDB242;
+}
+.zag2 {
+    font-family: Mirra;
+    font-size: 64px;
+    color: #DDB242;
+}
+.Levo-Pravo-Kyt {
+    display: flex;
+    justify-content: space-between;
+}
+.levoKYT {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.KytBLODIN {
+    background-color: #7E2525;
+    margin-bottom: 50px;
+    padding: 50px;
+    border-radius: 17px;
+    max-width: 600px;
+    line-height:50px;
+    font-family: Actay2;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-bottom: 100px;
+}
+.KytBLdva {
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    max-width:600px;
+    line-height:33px;
+}
+.texkKYT {
+    font-family: Actay2;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-bottom: 38px;
+}
+.texkKYT:last-child{
+    margin-bottom: 0px;
+}
+.pravoKYT {
+    
+}
+.lenta{
+    position: relative;
+    display: flex;
+    justify-content: end;
+}
+.lentTextKytyzov{
+    position: absolute;
+    top:10px;
+    right: 100px;
+    font-family: Mirra;
+    font-size: 90px;
+    color: #DDB242;
+}
+.perehod{
+    margin-top: 270px;
+    position: relative;
+}
+
+.history{
+    position: absolute;
+    top: 42%;
+    right: 135px;
+    font-family: Mirra;
+    font-size: 85px;
+    color: #DDB242;
+}
+
+.zagolovKytyz1{
+    margin-top: 100px;
+    font-family: Mirra;
+    font-size: 85px;
+    color: #DDB242;
+    max-width: 1085px;
+}
+.zagolovKytyz4{
+    margin-bottom: 130px;
+    margin-top: 250px;
+    font-family: Mirra;
+    font-size: 85px;
+    color: #DDB242;
+    max-width: 1085px;
+}
+.obertkaa{
+    margin-top: 250px;
+}
+.box1{
+    position: relative;
+    background-color: #7E2525;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:670px;
+    font-family: Actay2;
+    font-size: 20px;
+    color: #FFFFFF;
+    line-height:33px;
+    font-weight: 100;
+}
+.boxHelper{
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    width:670px;
+    height: 180px;
+    opacity: 25%;
+    z-index: 1;
+    position: absolute;
+    top:-25px;
+    right: -25px;
+}
+.Glavabox1{
+    display: flex;
+    justify-content: end;
+}
+.PodText1{
+    font-family: Mirra;
+    font-size: 36px;
+    color: #DDB242;
+    max-width: 476px;
+    margin-top: 25px;
+}
+
+.box2{
+    position: relative;
+    background-color: #7E2525;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:670px;
+    font-family: Actay2;
+    font-size: 20px;
+    color: #FFFFFF;
+    line-height:33px;
+    font-weight: 100;
+}
+.boxHelper2{
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    width:670px;
+    height: 140px;
+    opacity: 25%;
+    z-index: 1;
+    position: absolute;
+    top:-25px;
+    left: -25px;
+}
+.Glavabox2{
+    display: flex;
+    justify-content: start;
+}
+.PodText2{
+    font-family: Mirra;
+    font-size: 36px;
+    color: #DDB242;
+    max-width: 500px;
+    margin-top: 25px;
+}
+.lolll2{
+    display: flex;
+    justify-content: end;
+}
+
+.levo-pravoBOX1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.boxHelper3{
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    width:670px;
+    height: 230px;
+    opacity: 25%;
+    z-index: 1;
+    position: absolute;
+    top:-25px;
+    left: -35px;
+}
+.zagolovKytyz2{
+    margin-bottom: 140px;
+    margin-top: 250px;
+    font-family: Mirra;
+    font-size: 85px;
+    color: #DDB242;
+    display: flex;
+    justify-content: end;
+}
+.KytBLODIN2 {
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    max-width: 700px;
+    line-height:33px;
+    font-family: Actay2;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-bottom: 100px;
+}
+.levoBOX2{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.poker1{
+    bottom:90px;
+    right: -360px;
+    position: absolute;
+}
+.levo-pravoBOX2{
+    display: flex;
+    justify-content: space-between;
+}
+.levo-pravoBOX13{
+    align-items: center;
+    margin-top: 130px;
+    display: flex;
+    justify-content: space-between;
+}
+.zagolovKytyz3{
+    font-family: Mirra;
+    font-size: 48px;
+    color: #DDB242;
+    margin-bottom: 30px;
+}
+.lapochka{
+    height: 2px;
+    background-color: #4D3E1A;
+    width: 600px;
+}
+.smert{
+    font-family: Mirra;
+    font-size: 85px;
+    color: #DDB242;
+}
+
+.palkaSMERT{
+    height: 2px;
+    background-color: #4D3E1A;
+    width: 425px;
+}
+.obertkaa{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box5{
+    position: relative;
+    background-color: #7E2525;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:699px;
+    font-family: Actay2;
+    font-size: 20px;
+    color: #FFFFFF;
+    line-height:33px;
+    font-weight: 100;
+}
+.boxHelper5{
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    width:699px;
+    height: 150px;
+    opacity: 25%;
+    z-index: 1;
+    position: absolute;
+    top:-25px;
+    left: -25px;
+}
+.PodText5{
+    font-family: Mirra;
+    font-size: 36px;
+    color: #DDB242;
+    max-width: 345px;
+    margin-top: 25px;
+}
+.box6{
+    position: relative;
+    background-color: #7E2525;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:699px;
+    font-family: Actay2;
+    font-size: 20px;
+    color: #FFFFFF;
+    line-height:33px;
+    font-weight: 100;
+}
+.boxHelper6{
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    width:699px;
+    height: 150px;
+    opacity: 25%;
+    z-index: 1;
+    position: absolute;
+    top:-25px;
+    right: -25px;
+}
+.palkaSMERT{
+    margin-top: 30px;
+    margin-bottom: 140px;
+}
+.obertka33{
+    position: relative;
+}
+.petrNOBOROT{
+    position: absolute;
+    top:-370px;
+    right: 70px;
+    z-index: 1;
+}
+.box1{
+    z-index: 2;
+}
+
+
+
+
+
+
+.polePetrPervi{
+    padding-bottom: 190px;
+    padding-top: 150px;
+    width: 100%;
+    height: auto;
+    background-color: #FFF3D2;
+}
+.lenta{
+    position: relative;
+    display: flex;
+    justify-content: end;
+}
+.lentTextKytyzov{
+    position: absolute;
+    top:10px;
+    right: 100px;
+    font-family: Mirra;
+    font-size: 90px;
+    color: #DDB242;
+}
+.loxx{
+    position: relative;
+    top:-85px;
+}
+.pravoKYT22{
+}
+.Levo-Pravo-Kyt2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.KytBLdva2 {
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    max-width:670px;
+    line-height:33px;
+}
+.texkKY2 {
+    font-family: Actay2;
+    font-size: 20px;
+    color: #4D220E;
+    margin-bottom: 38px;
+}
+.texkKY2:last-child{
+    margin-bottom: 0;
+}
+.zaglavieKYTYZO2 {
+    text-align: center;
+    margin-top: 110px;
+    margin-bottom: 110px;
+}
+.zag11 {
+    font-family: Mirra;
+    font-size: 96px;
+    color: #4D220E;
+}
+.zag22 {
+    font-family: Mirra;
+    font-size: 64px;
+    color: #4D220E;
+}
+.zaglavokPETR{
+    margin-bottom: 60px;
+    margin-top: 210px;
+    font-family: Mirra;
+    font-size: 85px;
+    color: #4D220E;
+}
+.zaglavokPETR333{
+    margin-bottom: 60px;
+    margin-top: 210px;
+    font-family: Mirra;
+    font-size: 85px;
+    color: #4D220E;
+}
+.zaglavokPETR222{
+    margin-bottom: 250px;
+    margin-top: 100px;
+    font-family: Mirra;
+    font-size: 85px;
+    color: #4D220E;
+}
+
+
+.levo-pravoPETR{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+.boxPETR{
+    position: relative;
+    background-color: #C19A6B;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:699px;
+    z-index: 2;
+}
+.textPETR1{
+    font-family: Actay2;
+    font-size: 20px;
+    color: #4D220E;
+    line-height:33px;
+    margin-top: 40px;
+}
+.textPETR1:first-child{
+    margin-top: 0;
+}
+.boxHelperPETR{
+    z-index: -1;
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    width:699px;
+    height: 250px;
+    opacity: 25%;
+    position: absolute;
+    top:-25px;
+    left: -25px;
+}
+
+
+.boxPETR1{
+    position: relative;
+    background-color: #C19A6B;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:699px;
+    z-index: 2;
+}
+.textPETR11{
+    font-family: Actay2;
+    font-size: 20px;
+    color: #4D220E;
+    line-height:33px;
+}
+.boxHelperPETR1{
+    z-index: -1;
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    width:699px;
+    height: 150px;
+    opacity: 25%;
+    position: absolute;
+    top:-25px;
+    right: -25px;
+}
+
+.podtextPETR{
+    margin-top: 25px;
+    max-width: 646px;
+    font-family: Mirra;
+    font-size: 36px;
+    color: #4D220E;
+}
+
+.petdMELKIY{
+    position: absolute;
+    top:-180px;
+    left: 370px;
+}
+.obertka333{
+    position: relative;
+}
+
+
+.boxPETR333{
+    position: relative;
+    background-color: #C19A6B;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:699px;
+    z-index: 2;
+}
+.textPETR2{
+    font-family: Actay2;
+    font-size: 20px;
+    color: #4D220E;
+    line-height:33px;
+    margin-top: 40px;
+}
+.textPETR2:first-child{
+    margin-top: 0;
+}
+.boxHelperPETR2{
+    z-index: -1;
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    width:699px;
+    height: 250px;
+    opacity: 25%;
+    position: absolute;
+    top:-25px;
+    left: -25px;
+}
+.obertka22{
+    margin-bottom: 150px;
+}
+
+.boxHelperPETR3{
+    z-index: -1;
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    width:699px;
+    height: 145px;
+    opacity: 25%;
+    position: absolute;
+    top:-25px;
+    left: -25px;
+}
+.podMSGpetr1{
+    margin-bottom: 170px;
+    margin-top: 60px;
+}
+
+.levo-pravoPETR1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.levo-pravoPETR13{
+    margin-top: 120px;
+    margin-bottom: 170px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.boxHelperPETR5{
+    z-index: -1;
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    width:650px;
+    height:116px;
+    opacity: 25%;
+    position: absolute;
+    top:-25px;
+    left: -25px;
+}
+
+
+.slovoPETR{
+    max-width: 700px;
+    font-family: Mirra;
+    font-size: 40px;
+    color: #4D220E;
+}
+
+.palkaPETR{
+    margin-top: 20px;
+    width: 630px;
+    height: 2px;
+    background-color: #4D220E;
+}
+
+.podTextPetr2{
+    max-width: 307px;
+    font-family: Mirra;
+    font-size: 36px;
+    color: #4D220E;
+}
+.olyyyx{
+    text-align: end;
+}
+
+
+
+
+.boxPETRDA{
+    z-index: 2;
+    position: relative;
+    background-color: #C19A6B;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:699px;
+    font-family: Actay2;
+    font-size: 20px;
+    color: #4D220E;
+    line-height:33px;
+    font-weight: 100;
+}
+.boxHelperPETRDA{
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    width:699px;
+    height: 180px;
+    opacity: 25%;
+    z-index: -1;
+    position: absolute;
+    top:-25px;
+    left: -25px;
+}
+.PodTextPETRDA{
+    font-family: Mirra;
+    font-size: 36px;
+    color: #4D220E;
+    max-width: 345px;
+    margin-top: 25px;
+}
+.obertka12{
+    margin-bottom: 110px;
+}
+
+
+
+
+.levoBOX2{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.poker2{
+    bottom:0;
+    right: -390px;
+    position: absolute;
+}
+
+
+
+.petrPHOTO{
+    margin-bottom: 30px;
+    font-family: Mirra;
+    font-size: 40px;
+    color: #4D220E;
+    max-width: 676px;
+}
+.petrPALKA{
+    max-width: 500px;
+    height: 2px;
+    background-color: #4D220E;
+}
+
+.perehodPETR{
+    margin-bottom: 90px;
+    display: flex;
+    justify-content: end;
+}
+.boxPETR222{
+    position: relative;
+    background-color: #C19A6B;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:600px;
+    z-index: 2;
+}
+
+.boxHelperPETR111{
+    z-index: -1;
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    width:600px;
+    height: 150px;
+    opacity: 25%;
+    position: absolute;
+    top:-25px;
+    right: -25px;
+}
+
+.obertka123{
+    margin-bottom: 90px;
+}
+
+.levo-pravoPETR12{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 90px;
+}
+.petrPHOTO2{
+    margin-bottom: 30px;
+    margin-top: 60px;
+    font-family: Mirra;
+    font-size: 40px;
+    color: #4D220E;
+    max-width: 858px;
+}
+.petrPALKA2{
+    max-width: 630px;
+    height: 2px;
+    background-color: #4D220E;
+}
+.pravoPETR{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+
+
+
+.textSMERT{
+    font-family: Mirra;
+    font-size: 85px;
+    color: #4D220E;
+}
+.palkaSMERTppp{
+    margin-bottom: 100px;
+    margin-top: 8px;
+    height: 2px;
+    background-color: #4D220E;
+    width: 390px;
+}
+.boxPET333{
+    position: relative;
+    background-color: #C19A6B;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:699px;
+    z-index: 2;
+}
+.boxHelperPETR555{
+    z-index: -1;
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    width:699px;
+    height:145px;
+    opacity: 25%;
+    position: absolute;
+    top:-25px;
+    left: -25px;
+}
+.obertka133{
+    display: flex;
+    justify-content: end;
+}
+
+.boxPETR223{
+    position: relative;
+    background-color: #C19A6B;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:700px;
+    z-index: 2;
+}
+.boxHelperPETR1113{
+    z-index: -1;
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    width: 666px;
+    height: 113px;
+    opacity: 25%;
+    position: absolute;
+    top:-25px;
+    right: -25px;
+}
+
+
+
+.petrMEGAPHOTO{
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+.rovno{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.rovno2{
+    margin-bottom: 80px;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+
+
+
+.poleCHEL{
+    padding-top: 150px;
+    padding-bottom: 170px;
+    width: 100%;
+    height: auto;
+    background-color: #111116;
+}
+.levoKYT {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.loxx2{
+    position: relative;
+    top:-53px;
+}
+
+
+
+.KytBLdva33 {
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    max-width:600px;
+    line-height:33px;
+}
+.KytBLODIN33 {
+    background-color: #7E2525;
+    margin-bottom: 50px;
+    padding: 50px;
+    border-radius: 17px;
+    max-width: 600px;
+    line-height:50px;
+    font-family: Actay2;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-bottom: 100px;
+}
+
+
+.history2{
+    position: absolute;
+    top: 48%;
+    right: 135px;
+    font-family: Mirra;
+    font-size: 85px;
+    color: #DDB242;
+}
+.zaglavokCHEL{
+    margin-bottom: 150px;
+    margin-top: 170px;
+    font-family: Mirra;
+    font-size: 85px;
+    color: #DDB242;
+}
+.Glavabox34{
+    margin-top: 130px;
+}
+.boxHelperDADA{
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    width:670px;
+    height: 212px;
+    opacity: 25%;
+    z-index: 1;
+    position: absolute;
+    top:-25px;
+    right: -25px;
+}
+.boxHelper233{
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    width:612px;
+    height: 113px;
+    opacity: 25%;
+    z-index: 1;
+    position: absolute;
+    top:-25px;
+    left: -25px;
+}
+.PodText211{
+    font-family: Mirra;
+    font-size: 36px;
+    color: #DDB242;
+    max-width: 430px;
+    margin-top: 25px;
+}
+.levo-pravoBOX1333{
+    margin-top: 130px;
+    display: flex;
+    justify-content: end;
+}
+.boxHelperYYY{
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    width:670px;
+    height: 146px;
+    opacity: 25%;
+    z-index: 1;
+    position: absolute;
+    top:-25px;
+    right: -25px;
+}
+.PodTextIII{
+    font-family: Mirra;
+    font-size: 36px;
+    color: #DDB242;
+    max-width: 570px;
+    margin-top: 25px;
+}
+.petrNOBOROTFFF{
+    position: absolute;
+    top:-350px;
+    right: 320px;
+    z-index: 1;
+}
+.poker3{
+    top:0;
+    right: 330px;
+    position: absolute;
+}
+
+
+.levoBOX22{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.KytBLODIN233 {
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    max-width: 650px;
+    line-height:33px;
+    font-family: Actay2;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-bottom: 100px;
+}
+.KytBLODIN23 {
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    max-width: 650px;
+    line-height:33px;
+    font-family: Actay2;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.textttttttt{
+    font-family: Mirra;
+    font-size: 36px;
+    color: #DDB242;
+    max-width: 430px;;
+}
+.pomoshCHEL{
+    margin-top: 25px;
+    display: flex;
+    justify-content: end;
+}
+.levo-pravoBOX234{
+    margin-bottom: 250px;
+    margin-top: 140px;
+    display: flex;
+    justify-content: space-between;
+}
+.perehod{
+    margin-top: 270px;
+    position: relative;
+}
+.history23{
+    position: absolute;
+    top: 60px;
+    left: 135px;
+    font-family: Mirra;
+    font-size: 85px;
+    color: #DDB242;
+    max-width: 1086px;
+}
+.obertka33{
+    position: relative;
+}
+.petrNOBOROTFFF2{
+    position: absolute;
+    top:-350px;
+    right: 320px;
+    z-index: 1;
+}
+.Glavabox333{
+    display: flex;
+    flex-direction: column;
+    justify-content:end;
+}
+
+
+
+
+.zaglavokCHEL23{
+    max-width: 1086px;
+    font-family: Mirra;
+    font-size: 85px;
+    color: #DDB242;
+}
+
+
+
+
+
+.Glavabox1{
+    display: flex;
+    justify-content: end;
+}
+.box133{
+    z-index: 2;
+    position: relative;
+    background-color: #7E2525;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:670px;
+    font-family: Actay2;
+    font-size: 20px;
+    color: #FFFFFF;
+    line-height:33px;
+    font-weight: 100;
+}
+.photFF{
+    z-index: 1;
+    left: 100px;
+    top:-400px;
+    position: absolute;
+}
+.obertkaAA{
+    position: relative;
+}
+.plan{
+    top: 300px;
+    right: 135px;
+    position: absolute;
+}
+.perehod2{
+    position: relative;
+}
+.zaglavokCHEL23{
+    top:60px;
+    position: absolute;
+}
+.textSMERT3{
+    font-family: Mirra;
+    font-size: 85px;
+    color: #DDB242;
+}
+.palkaSMERTppp3{
+    margin-bottom: 100px;
+    margin-top: 8px;
+    height: 2px;
+    background-color: #DDB242;
+    width: 390px;
+}
+
+
+.boxHelper2335{
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    width:670px;
+    height: 145px;
+    opacity: 25%;
+    z-index: 1;
+    position: absolute;
+    top:-25px;
+    left: -25px;
+}
+.levopravoCHEEEEL{
+    display: flex;
+    justify-content: space-between;
+}
+.textCHEL{
+    font-family: Mirra;
+    font-size: 40px;
+    color: #DDB242;
+    max-width: 800px;
+    text-align: end;
+}
+.palkaSMERTCHEL{
+    margin-top: 30px;
+    height: 2px;
+    max-width: 470px;
+    background-color: #DDB242;
+}
+.pravoCHEL{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+
+
+
+
+
+
+
+.poleKOSMOS{
+    padding-bottom: 150px;
+    width: 100%;
+    padding-top: 150px;
+    height: auto;
+    background-color: #06060B;
+}
+.poleKOSMOS2{
+    width: 100%;
+    padding-top: 150px;
+    height: auto;
+    background-color: #06060B;
+}
+.textKOSMOS{
+    line-height:30px;
+    max-width: 762px;
+    font-size: 26px;
+    font-family: Actay;
+    color: #FFFFFF;
+    margin-bottom: 56px;
+}
+.textKOSMOS:last-child{
+    margin-bottom: 0;
+}
+.cpans{
+    color: #7CFC40;
+}
+.levopravoKOSMOS{
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+.privol{
+    height: auto;
+    width: auto;
+    background-color: #121213;
+    padding-left: 60px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    padding-right: 50px;
+}
+.zaglavieKOSMOS{
+    top:80px;
+    position: relative;
+    font-size: 75px;
+    font-family: GrobFont;
+    color: #FFFFFF;
+}
+
+.linerKOSMOS{
+    margin-top: 220px;
+    height: 75px;
+    width: 100%;
+    background-color: #121213;
+}
+.linerKOSMOS2{
+    height: 75px;
+    width: 100%;
+    background-color: #121213;
+}
+
+.biograf{
+    right: 135px;
+    top:50%;
+    position: absolute;
+    font-size: 96px;
+    font-family: GrobFont;
+    color: #FFFFFF;
+}
+.Joke{
+    max-height: 860px;
+    position: relative;
+}
+
+
+
+.slovoKOSM{
+    font-size: 40px;
+    font-family: GrobFont;
+    color: #FFFFFF;
+}
+.palkaKOSMOS{
+    margin-top: 20px;
+    height: 2px;
+    max-width: 545px;
+    background-color: #FF2525;
+}
+.blocKOSMOS1{
+    margin-top: 160px;
+    display: inline-block;
+    background-color: #121213;
+    padding-top:60px ;
+    padding-bottom:60px ;
+    padding-left: 54px;
+    padding-right: 90px;
+}
+.kosmosTEXT{
+    line-height:30px;
+    max-width: 888px;
+    font-size: 20px;
+    font-family: Actay;
+    color: #FFFFFF;
+}
+.raznieSTORONI{
+    margin-top: 90px;
+    align-items: end;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pravoKOS1{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+.blocKOSMOS3{
+    margin-bottom: 50px;
+    text-align: end;
+    max-width: 969px;
+    background-color: #121213;
+    padding-top:60px ;
+    padding-bottom:60px ;
+    padding-left: 40px;
+    padding-right: 54px;
+}
+.blocKOSMOS4{
+    margin-bottom: 50px;
+    text-align: end;
+    max-width: 903px;
+    background-color: #121213;
+    padding-top:60px ;
+    padding-bottom:60px ;
+    padding-left: 40px;
+    padding-right: 54px;
+}
+.blocKOSMOS5{
+    text-align: end;
+    max-width: 825px;
+    background-color: #121213;
+    padding-top:60px ;
+    padding-bottom:60px ;
+    padding-left: 40px;
+    padding-right: 54px;
+}
+.kosmosTEXT3{
+    line-height:30px;
+    max-width: 905px;
+    font-size: 20px;
+    font-family: Actay;
+    color: #FFFFFF;
+}
+.kosmosTEXT4{
+    line-height:30px;
+    font-size: 20px;
+    font-family: Actay;
+    color: #FFFFFF;
+}
+.kosmosTEXT5{
+    line-height:30px;
+    max-width: 755px;
+    font-size: 20px;
+    font-family: Actay;
+    color: #FFFFFF;
+    line-height:30px;
+}
+
+
+
+.palkaKOSMOS3{
+    margin-top: 20px;
+    height: 2px;
+    width: 100%;
+    background-color: #FFBF19;
+}
+.ananas{
+    width: 750px;
+}
+.nazva13{
+    margin-top: 240px;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+.blokSHELT{
+    line-height:30px;
+    max-width: 672px;
+    padding-left:50px ;
+    padding-right: 60px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #121213;
+}
+.textSHELT{
+    font-size: 20px;
+    font-family: Actay;
+    color: #FFFFFF;
+}
+
+
+.megaPYPER{
+    margin-top: 110px;
+    align-items: end;
+    display: flex;
+    justify-content: space-between;
+}
+
+.blokSHELT{
+    margin-bottom: 60px;
+}
+.blokSHELT:last-child{
+    margin-bottom: 0;
+}
+.pofig{
+    margin-top: 30px;
+    display: flex;
+    justify-content: end;
+}
+.finaaaal{
+    max-width: 580px;
+    font-size: 17px;
+    font-family: GrobFont;
+    color: #FFFFFF;
+}
+.KEK{
+    font-size: 17px;
+    font-family: GrobFont;
+    color: #FFBF19;
+}
+.posledniuBLOCK{
+    margin-top: 150px;
+    max-width: 1500px;
+    background-color: #FFBF19;
+    padding: 50px;
+    padding-bottom: 40px;
+    padding-right: 70px;
+    font-size: 25px;
+    font-family: GrobFont;
+    color: #000000;
+}
+.gitler{
+    padding-bottom: 200px;
+    background-image: url('/картинки/KOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.textFINAL{
+    font-family: Actay2;
+    font-size: 24px;
+    color: #FFF3D2;
+    transition:0.3s;
+}
+.textFINAL:hover{
+    color: #DDB242;
+}
+.ddddd{
+    margin-top: 160px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    gap:50px;
+}
+.popkas{
+    width: 100%;
+    height: 100%;
+}
+
+
+@media(max-width:1450px){
+    .vector{
+        width: 100%;
+        z-index: 9999;
+        bottom:-80px;
+        left: 0;
+        position: absolute;
+    }
+}
+@media(max-width:1340px){
+    .bobr{
+        width: 270.24px;
+        height: 340.11px;
+    }
+    .crasnBOBR{
+        width: 270.24px;
+        height: 340.11px;
+        position: absolute;
+        top: 30px;
+        left: -60px;
+        display: none;
+        opacity: 80%;
+    }
+    .petr{
+        position: absolute;
+        left: 85px;
+        width: 400.41px;
+        height: 380.54px;
+    }
+    .Petr1Help{
+        width: 400.41px;
+        height: 380.54px;
+        position: absolute;
+        top:15px;
+        left: -40px;
+        opacity: 80%;
+        display: none;
+        transition: 0.3s;
+    
+    }
+    .chel{
+        position: absolute;
+        right: 160px;
+        width: 430.41px;
+        height: 410px;
+    }
+    .chelLOLSHELPS{
+        position: absolute;
+        width: 450.41px;
+        height: 430px;
+        top: 30px;
+        left: -35px;
+        display: none;
+        opacity: 80%;
+    }
+    .women{
+        z-index: 1;
+        width: 234.77px;
+        height: 370.16px;
+    }
+    .womenSVG{
+        width: 234.77px;
+        height: 370.16px;
+        position: absolute;
+        top: 13px;
+        left: -40px;
+        display: none;
+        opacity: 80%;
+        z-index: 1;
+    }
+}
+@media(max-width:1190px){
+    .bobr{
+        width: 230.24px;
+        height: 290.11px;
+        bottom: 30px;
+    }
+    .crasnBOBR{
+        width: 230.24px;
+        height: 290.11px;
+        position: absolute;
+        top: 30px;
+        left: -60px;
+        display: none;
+        opacity: 80%;
+        bottom: 30px;
+    }
+    .petr{
+        position: absolute;
+        left: 85px;
+        width: 350.41px;
+        height: 330.54px;
+        bottom: 30px;
+    }
+    .Petr1Help{
+        width: 350.41px;
+        height: 330.54px;
+        position: absolute;
+        top:15px;
+        left: -40px;
+        opacity: 80%;
+        display: none;
+        transition: 0.3s;
+        bottom: 30px;
+    
+    }
+    .chel{
+        position: absolute;
+        right: 100px;
+        width: 360.41px;
+        height: 330.54px;
+        bottom: 30px;
+    }
+    .chelLOLSHELPS{
+        position: absolute;
+        width: 360.41px;
+        height: 330.54px;
+        top: 30px;
+        left: -35px;
+        display: none;
+        opacity: 80%;
+        bottom: 30px;
+    }
+    .women{
+        position: relative;
+        top:40px;
+        z-index: 1;
+        width: 200.77px;
+        height: 350.16px;
+    }
+    .womenSVG{
+        width: 200.77px;
+        height: 350.16px;
+        position: absolute;
+        top: 13px;
+        left: -40px;
+        display: none;
+        opacity: 80%;
+        z-index: 1;
+    }
+    .vector{
+        width: 100%;
+        z-index: 9999;
+        bottom:-60px;
+        left: 0;
+        position: absolute;
+    }
+    .text{
+        margin: 0 auto;
+        font-family: Mirra;
+        color: #DDB242;
+        font-size: 150px;
+    }
+}
+@media(max-width:1040px){
+    .ssilki{
+        font-family: Actay2;
+        color: #FFF3D2;
+        font-size: 15px;
+        transition:0.3s;
+    }
+    .lol{
+        display: flex;
+        gap:30px;
+    }
+    .Rus-Linia{
+        width: 130px;
+        height: 2px;
+        background-color: #DDB242;
+    }
+}
+@media(max-width:980px){
+    .bobr{
+        width: 200.24px;
+        height: 260.11px;
+    }
+    .crasnBOBR{
+        width: 190.24px;
+        height: 250.11px;
+        position: absolute;
+        top: 30px;
+        left: -40px;
+        display: none;
+        opacity: 80%;
+    }
+    .petr{
+        position: absolute;
+        left: 85px;
+        width: 310.41px;
+        height: 290.54px;
+    }
+    .Petr1Help{
+        width: 310.41px;
+        height: 290.54px;
+        position: absolute;
+        top:15px;
+        left: -40px;
+        opacity: 80%;
+        display: none;
+        transition: 0.3s;
+    
+    }
+    .chel{
+        position: absolute;
+        right: 100px;
+        width: 310.41px;
+        height: 310.54px;
+    }
+    .chelLOLSHELPS{
+        position: absolute;
+        width: 310.41px;
+        height: 310.54px;
+        top: 30px;
+        left: -35px;
+        display: none;
+        opacity: 80%;
+    }
+    .women{
+        position: relative;
+        top:10px;
+        z-index: 1;
+        width: 180.77px;
+        height: 320.16px;
+    }
+    .womenSVG{
+        width: 200.77px;
+        height: 350.16px;
+        position: absolute;
+        top: 13px;
+        left: -40px;
+        display: none;
+        opacity: 80%;
+        z-index: 1;
+    }
+    .vector{
+        width: 100%;
+        z-index: 9999;
+        top: 960px;
+        left: 0;
+        position: absolute;
+    }
+    .text{
+        margin: 0 auto;
+        font-family: Mirra;
+        color: #DDB242;
+        font-size: 150px;
+    }
+}
+@media(max-width:1090px){
+    .vector{
+        width: 100%;
+        z-index: 9999;
+        bottom:-35px;
+        left: 0;
+        position: absolute;
+    }
+}
+@media(max-width:896px){
+    .vector{
+        width: 100%;
+        z-index: 9999;
+        top: 900px;
+        left: 0;
+        position: absolute;
+    }
+    .text{
+        margin: 0 auto;
+        font-family: Mirra;
+        color: #DDB242;
+        font-size: 120px;
+    }
+    .ssilki{
+        font-family: Actay2;
+        color: #FFF3D2;
+        font-size: 13px;
+        transition:0.3s;
+    }
+    .lol{
+        display: flex;
+        gap:15px;
+    }
+    .Rus-Linia{
+        width: 100px;
+        height: 2px;
+        background-color: #DDB242;
+    }
+    .palots{
+        width: 350px;
+        height: 2px;
+        background-color: #4D3E1A;
+        float: right;
+        margin-top: 20px;
+    }
+}
+@media(max-width:888px){
+    .bobr{
+        position: relative;
+        bottom: 10px;
+        width: 180.24px;
+        height: 230.11px;
+    }
+    .crasnBOBR{
+        width: 180.24px;
+        height: 230.11px;
+        position: absolute;
+        top: 15px;
+        left: -30px;
+        display: none;
+        opacity: 80%;
+    }
+    .petr{
+        position: absolute;
+        left: 85px;
+        width: 260.41px;
+        height: 250.54px;
+    }
+    .Petr1Help{
+        width: 260.41px;
+        height: 250.54px;
+        position: absolute;
+        top:15px;
+        left: -40px;
+        opacity: 80%;
+        display: none;
+        transition: 0.3s;
+    
+    }
+    .chel{
+        position: absolute;
+        right: 100px;
+        width: 270.41px;
+        height: 260.54px;
+    }
+    .chelLOLSHELPS{
+        position: absolute;
+        width: 270.41px;
+        height: 260.54px;
+        top: 30px;
+        left: -35px;
+        display: none;
+        opacity: 80%;
+    }
+    .women{
+        position: relative;
+        top:10px;
+        z-index: 1;
+        width: 160.77px;
+        height: 280.16px;
+    }
+    .womenSVG{
+        width: 160.77px;
+        height: 280.16px;
+        position: absolute;
+        top: 5px;
+        left: -30px;
+        display: none;
+        opacity: 80%;
+        z-index: 1;
+    }
+    .vector{
+        width: 100%;
+        z-index: 9999;
+        top: 870px;
+        left: 0;
+        position: absolute;
+    }
+}
+@media(max-width:1360px){
+    .pravoS{
+        max-width: 500px;
+        height: 340px;
+    }
+}
+@media(max-width:1180px){
+    .pravoS{
+        max-width: 500px;
+        height: 340px;
+    }
+    .dadd{
+        max-width:350px;
+        font-family: Actay2;
+        font-size: 17px;
+    }
+    .Blok{
+        margin-bottom: 50px;
+        padding: 50px;
+        background-color: #A8C4DC;
+        border-radius: 17px;
+        max-width: 600px;
+    }
+}
+@media(max-width:1060px){
+    .pravoS{
+        width: 400px;
+        height: 240px;
+    }
+    .dadd{
+        max-width:350px;
+        font-family: Actay2;
+        font-size: 17px;
+    }
+    .Blok{
+        margin-bottom: 50px;
+        padding: 50px;
+        background-color: #A8C4DC;
+        border-radius: 17px;
+        max-width: 600px;
+    }
+}
+@media(max-width:940px){
+    .pravoS{
+        width: 400px;
+        height: 240px;
+    }
+    .dadd{
+        max-width:200px;
+        font-family: Actay2;
+        font-size: 17px;
+    }
+    .Blok{
+        margin-bottom: 50px;
+        padding: 50px;
+        background-color: #A8C4DC;
+        border-radius: 17px;
+        max-width: 400px;
+    }
+}
+@media(max-width:780px){
+    .pravoS{
+        display: none;
+    }
+    .dadd{
+        width: 600px;
+        font-family: Actay2;
+        font-size: 17px;
+    }
+    .Blok{
+        margin-bottom: 50px;
+        padding: 50px;
+        background-color: #A8C4DC;
+        border-radius: 17px;
+        width: 700px;
+    }
+}
+@media(max-width:1430px){
+    .Zaglavie{
+        font-family: Mirra;
+        font-size: 100px;
+        color: #DDB242;
+        margin-bottom: 130px;
+    }
+}
+@media(max-width:1070px){
+    .Zaglavie{
+        font-family: Mirra;
+        font-size: 70px;
+        color: #DDB242;
+        margin-bottom: 130px;
+    }
+    .kkk{
+        font-family: Actay2;
+        font-size: 17px;
+    }
+    .Blok3{
+        float: right;
+        background-color: #FB874F;
+        margin-bottom: 50px;
+        padding: 50px;
+        border-radius: 17px;
+        max-width: 600px;
+        line-height:50px;
+    }
+    .Blok4{
+        float: left;
+        background-color: #FB874F;
+        margin-bottom: 50px;
+        padding: 50px;
+        border-radius: 17px;
+        max-width: 600px;
+        line-height:50px;
+        margin-top: 95px;
+    }
+}
+@media(max-width:1230px){
+    .snekeSER {
+        position: absolute;
+        top: -130px;
+    }
+}
+@media(max-width:950px){
+    .snekeSER {
+        position: absolute;
+        top: -80px;
+    }
+}
+@media(max-width:1430px){
+    .texkKYT {
+        font-family: Actay2;
+        font-size: 17px;
+        color: #FFFFFF;
+        margin-bottom: 25px;
+    }
+    .KytBLdva {
+        background-color: #7E2525;
+        padding: 50px;
+        border-radius: 17px;
+        max-width:400px;
+        line-height:33px;
+    }
+    .KytBLODIN {
+        background-color: #7E2525;
+        margin-bottom: 50px;
+        padding: 50px;
+        border-radius: 17px;
+        max-width: 600px;
+        line-height:50px;
+        font-family: Actay2;
+        font-size: 17px;
+        color: #FFFFFF;
+        margin-bottom: 100px;
+    }
+}
+@media(max-width:1230px){
+    .texkKYT {
+        font-family: Actay2;
+        font-size: 17px;
+        color: #FFFFFF;
+        margin-bottom: 25px;
+    }
+    .KytBLdva {
+        background-color: #7E2525;
+        padding: 50px;
+        border-radius: 17px;
+        max-width:500px;
+        line-height:33px;
+    }
+    .lolsdd{
+        min-height:90px ;
+        max-width: 600px;
+    }
+    .lentTextKytyzov{
+        position: absolute;
+        top:10px;
+        right: 80px;
+        font-family: Mirra;
+        font-size: 70px;
+        color: #DDB242;
+    }
+}
+@media(max-width:1160px){
+    .texkKYT {
+        font-family: Actay2;
+        font-size: 17px;
+        color: #FFFFFF;
+        margin-bottom: 25px;
+    }
+    .KytBLdva {
+        background-color: #7E2525;
+        padding: 50px;
+        border-radius: 17px;
+        max-width:500px;
+        line-height:33px;
+    }
+    .lolsdd{
+        min-height:90px ;
+        max-width: 600px;
+    }
+    .lentTextKytyzov{
+        position: absolute;
+        top:10px;
+        right: 80px;
+        font-family: Mirra;
+        font-size: 70px;
+        color: #DDB242;
+    }.pravoKYT {
+        max-width: 430px;
+    }
+    .ADSDA{
+        max-width: 430px;
+    }
+}
+
